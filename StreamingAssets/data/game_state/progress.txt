@@ -1,7 +1,7 @@
 {
     "level": 0,
     "start_level": 0,
-    "mission": 4,
+    "mission": 5,
     "scene": 3,
     "intro_passed": 1,
     "max_level_passed": [
@@ -14,44 +14,44 @@
     ],
     "top_ten": [
         {
-            "name": "Nor Unit",
-            "score": 1700
+            "name": "Comm Ass",
+            "score": 1340
         },
         {
-            "name": "Gen Target",
-            "score": 1210
+            "name": "Col Task",
+            "score": 1230
         },
         {
-            "name": "Brig Plan",
-            "score": 1090
+            "name": "Ens Unit",
+            "score": 820
         },
         {
-            "name": "Cadet Obj",
-            "score": 940
+            "name": "Maj Exp",
+            "score": 630
         },
         {
-            "name": "Cadet Trip",
-            "score": 680
+            "name": "Maj Target",
+            "score": 610
         },
         {
-            "name": "Sgt Fud",
-            "score": 620
+            "name": "Sgt Target",
+            "score": 550
         },
         {
-            "name": "Gen Obj",
+            "name": "Priv Dut",
             "score": 490
         },
         {
-            "name": "Comm Yes",
-            "score": 420
+            "name": "Ens No",
+            "score": 450
         },
         {
-            "name": "Brig Exp",
-            "score": 360
+            "name": "Capt Yes",
+            "score": 410
         },
         {
-            "name": "Corp Dut",
-            "score": 360
+            "name": "Corp Fud",
+            "score": 330
         }
     ]
 }
