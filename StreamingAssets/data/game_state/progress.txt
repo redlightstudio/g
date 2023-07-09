@@ -1,7 +1,7 @@
 {
-    "level": 0,
+    "level": 4,
     "start_level": 0,
-    "mission": 5,
+    "mission": 0,
     "scene": 3,
     "intro_passed": 1,
     "max_level_passed": [
@@ -14,44 +14,44 @@
     ],
     "top_ten": [
         {
+            "name": "Comm Err",
+            "score": 1830
+        },
+        {
+            "name": "Ens Task",
+            "score": 1460
+        },
+        {
             "name": "Comm Ass",
             "score": 1340
+        },
+        {
+            "name": "Cadet Trip",
+            "score": 1280
         },
         {
             "name": "Col Task",
             "score": 1230
         },
         {
+            "name": "Brig Camp",
+            "score": 1170
+        },
+        {
+            "name": "Priv Plan",
+            "score": 1090
+        },
+        {
+            "name": "Sgt Err",
+            "score": 1080
+        },
+        {
             "name": "Ens Unit",
             "score": 820
         },
         {
-            "name": "Maj Exp",
-            "score": 630
-        },
-        {
-            "name": "Maj Target",
-            "score": 610
-        },
-        {
-            "name": "Sgt Target",
-            "score": 550
-        },
-        {
-            "name": "Priv Dut",
-            "score": 490
-        },
-        {
-            "name": "Ens No",
-            "score": 450
-        },
-        {
-            "name": "Capt Yes",
-            "score": 410
-        },
-        {
-            "name": "Corp Fud",
-            "score": 330
+            "name": "Priv Ups",
+            "score": 760
         }
     ]
 }
