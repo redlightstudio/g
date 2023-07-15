@@ -1,5 +1,5 @@
 {
-    "level": 4,
+    "level": 3,
     "start_level": 0,
     "mission": 0,
     "scene": 3,
