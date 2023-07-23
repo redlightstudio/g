@@ -1,6 +1,6 @@
 {
-    "level": 3,
-    "start_level": 0,
+    "level": 7,
+    "start_level": 7,
     "mission": 0,
     "scene": 3,
     "intro_passed": 1,
