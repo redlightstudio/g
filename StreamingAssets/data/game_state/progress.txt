@@ -1,57 +1,57 @@
 {
-    "level": 7,
-    "start_level": 7,
-    "mission": 0,
-    "scene": 3,
+    "level": 1,
+    "start_level": 0,
+    "mission": 5,
+    "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
-        21,
-        21,
-        21,
-        21,
-        21,
-        21
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
     ],
     "top_ten": [
         {
-            "name": "Comm Err",
-            "score": 1830
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Ens Task",
-            "score": 1460
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Comm Ass",
-            "score": 1340
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Cadet Trip",
-            "score": 1280
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Col Task",
-            "score": 1230
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Brig Camp",
-            "score": 1170
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Priv Plan",
-            "score": 1090
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sgt Err",
-            "score": 1080
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Ens Unit",
-            "score": 820
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Priv Ups",
-            "score": 760
+            "name": "",
+            "score": 0
         }
     ]
 }
