@@ -1,29 +1,29 @@
 {
-    "level": 1,
+    "level": 6,
     "start_level": 0,
-    "mission": 5,
+    "mission": 0,
     "scene": 0,
-    "intro_passed": 1,
+    "intro_passed": 0,
     "max_level_passed": [
+        5,
         0,
         0,
         0,
         0,
-        0,
-        0
+        6
     ],
     "top_ten": [
         {
-            "name": "",
-            "score": 0
+            "name": "Priv Ups",
+            "score": 990
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Priv Unit",
+            "score": 460
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Sgt Hit",
+            "score": 230
         },
         {
             "name": "",
@@ -53,5 +53,8 @@
             "name": "",
             "score": 0
         }
-    ]
+    ],
+    "score": 460,
+    "lives_left": 0,
+    "player_name": "Priv Unit"
 }
