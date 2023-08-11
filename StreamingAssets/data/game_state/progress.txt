@@ -1,9 +1,9 @@
 {
-    "level": 6,
+    "level": 0,
     "start_level": 0,
-    "mission": 0,
+    "mission": 5,
     "scene": 0,
-    "intro_passed": 0,
+    "intro_passed": 1,
     "max_level_passed": [
         5,
         0,
@@ -22,20 +22,20 @@
             "score": 460
         },
         {
+            "name": "Priv Unit",
+            "score": 460
+        },
+        {
             "name": "Sgt Hit",
             "score": 230
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Col Dud",
+            "score": 60
         },
         {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
+            "name": "Col Dud",
+            "score": 60
         },
         {
             "name": "",
@@ -54,7 +54,8 @@
             "score": 0
         }
     ],
-    "score": 460,
-    "lives_left": 0,
-    "player_name": "Priv Unit"
+    "score": 0,
+    "lives_left": 3,
+    "player_name": "Maj Exp",
+    "audio_enabled": true
 }
