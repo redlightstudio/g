@@ -1,18 +1,23 @@
 {
-    "level": 0,
+    "level": 6,
     "start_level": 0,
-    "mission": 5,
+    "mission": 0,
     "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
-        5,
-        0,
-        0,
-        0,
-        0,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
         6
     ],
     "top_ten": [
+        {
+            "name": "Brig Dud",
+            "score": 1010
+        },
         {
             "name": "Priv Ups",
             "score": 990
@@ -26,36 +31,32 @@
             "score": 460
         },
         {
+            "name": "Gen Fud",
+            "score": 460
+        },
+        {
+            "name": "Ens Fud",
+            "score": 390
+        },
+        {
+            "name": "Col Unit",
+            "score": 330
+        },
+        {
+            "name": "Brig Ups",
+            "score": 330
+        },
+        {
+            "name": "Gen Fud",
+            "score": 280
+        },
+        {
             "name": "Sgt Hit",
             "score": 230
-        },
-        {
-            "name": "Col Dud",
-            "score": 60
-        },
-        {
-            "name": "Col Dud",
-            "score": 60
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
         }
     ],
-    "score": 0,
-    "lives_left": 3,
-    "player_name": "Maj Exp",
+    "score": 390,
+    "lives_left": 0,
+    "player_name": "Brig Ups",
     "audio_enabled": true
 }
