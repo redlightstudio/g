@@ -1,7 +1,7 @@
 {
-    "level": 6,
+    "level": 0,
     "start_level": 0,
-    "mission": 0,
+    "mission": 4,
     "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
@@ -15,48 +15,48 @@
     ],
     "top_ten": [
         {
-            "name": "Brig Dud",
-            "score": 1010
+            "name": "Mr Awk",
+            "score": 6680
         },
         {
-            "name": "Priv Ups",
-            "score": 990
+            "name": "Mr Awk",
+            "score": 5410
         },
         {
-            "name": "Priv Unit",
-            "score": 460
+            "name": "Mr Awk",
+            "score": 3330
         },
         {
-            "name": "Priv Unit",
-            "score": 460
+            "name": "Mr Awk",
+            "score": 1420
         },
         {
-            "name": "Gen Fud",
-            "score": 460
+            "name": "Corp Awk",
+            "score": 1180
         },
         {
-            "name": "Ens Fud",
-            "score": 390
+            "name": "Ens Less",
+            "score": 810
         },
         {
-            "name": "Col Unit",
-            "score": 330
+            "name": "Corp Bash",
+            "score": 530
         },
         {
-            "name": "Brig Ups",
-            "score": 330
+            "name": "Capt Strip",
+            "score": 340
         },
         {
-            "name": "Gen Fud",
-            "score": 280
+            "name": "Mr Awk",
+            "score": 240
         },
         {
-            "name": "Sgt Hit",
-            "score": 230
+            "name": "Priv Sleep",
+            "score": 170
         }
     ],
-    "score": 390,
-    "lives_left": 0,
-    "player_name": "Brig Ups",
+    "score": 0,
+    "lives_left": 2,
+    "player_name": "Corp Yum",
     "audio_enabled": true
 }
