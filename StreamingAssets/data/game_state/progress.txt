@@ -1,62 +1,62 @@
 {
-    "level": 0,
+    "level": 1,
     "start_level": 0,
-    "mission": 4,
+    "mission": 5,
     "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
-        6,
-        6,
-        6,
-        6,
-        6,
-        6,
-        6
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
     ],
     "top_ten": [
         {
-            "name": "Mr Awk",
-            "score": 6680
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Mr Awk",
-            "score": 5410
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Mr Awk",
-            "score": 3330
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Mr Awk",
-            "score": 1420
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Corp Awk",
-            "score": 1180
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Ens Less",
-            "score": 810
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Corp Bash",
-            "score": 530
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Capt Strip",
-            "score": 340
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Mr Awk",
-            "score": 240
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Priv Sleep",
-            "score": 170
+            "name": "",
+            "score": 0
         }
     ],
-    "score": 0,
-    "lives_left": 2,
-    "player_name": "Corp Yum",
+    "score": 10,
+    "lives_left": 3,
+    "player_name": "Cadet Emacs",
     "audio_enabled": true
 }
