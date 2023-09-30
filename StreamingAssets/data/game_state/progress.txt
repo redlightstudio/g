@@ -1,38 +1,38 @@
 {
-    "level": 1,
+    "level": 4,
     "start_level": 0,
     "mission": 5,
     "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
+        3,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        6,
         0
     ],
     "top_ten": [
         {
-            "name": "",
-            "score": 0
+            "name": "Sgt Finger",
+            "score": 460
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Comm Cat",
+            "score": 330
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Ens Fortune",
+            "score": 200
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Ms Sed",
+            "score": 100
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Mr More",
+            "score": 70
         },
         {
             "name": "",
@@ -55,8 +55,8 @@
             "score": 0
         }
     ],
-    "score": 10,
+    "score": 740,
     "lives_left": 3,
-    "player_name": "Cadet Emacs",
+    "player_name": "Maj Awk",
     "audio_enabled": true
 }
