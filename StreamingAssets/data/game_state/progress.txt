@@ -1,62 +1,62 @@
 {
-    "level": 4,
+    "level": 1,
     "start_level": 0,
-    "mission": 5,
+    "mission": 0,
     "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
-        3,
-        0,
-        0,
-        0,
-        0,
         6,
-        0
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
     ],
     "top_ten": [
         {
+            "name": "Mr Tar",
+            "score": 1860
+        },
+        {
+            "name": "Priv Cat",
+            "score": 1420
+        },
+        {
+            "name": "Maj Zip",
+            "score": 810
+        },
+        {
+            "name": "Dr Bash",
+            "score": 730
+        },
+        {
+            "name": "Dr Apt",
+            "score": 600
+        },
+        {
+            "name": "Cadet Strip",
+            "score": 540
+        },
+        {
             "name": "Sgt Finger",
             "score": 460
+        },
+        {
+            "name": "Cadet Apt",
+            "score": 390
         },
         {
             "name": "Comm Cat",
             "score": 330
         },
         {
-            "name": "Ens Fortune",
-            "score": 200
-        },
-        {
-            "name": "Ms Sed",
-            "score": 100
-        },
-        {
-            "name": "Mr More",
-            "score": 70
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
-        },
-        {
-            "name": "",
-            "score": 0
+            "name": "Col Vim",
+            "score": 320
         }
     ],
-    "score": 740,
+    "score": 30,
     "lives_left": 3,
-    "player_name": "Maj Awk",
+    "player_name": "Dr Finger",
     "audio_enabled": true
 }
