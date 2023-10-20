@@ -1,7 +1,7 @@
 {
-    "level": 1,
+    "level": 5,
     "start_level": 0,
-    "mission": 0,
+    "mission": 3,
     "scene": 0,
     "intro_passed": 1,
     "max_level_passed": [
@@ -15,48 +15,48 @@
     ],
     "top_ten": [
         {
-            "name": "Mr Tar",
-            "score": 1860
+            "name": "Mr Sleep",
+            "score": 3950
         },
         {
-            "name": "Priv Cat",
-            "score": 1420
+            "name": "Mr Sleep",
+            "score": 3940
         },
         {
-            "name": "Maj Zip",
-            "score": 810
+            "name": "Mr Sleep",
+            "score": 3910
         },
         {
-            "name": "Dr Bash",
-            "score": 730
+            "name": "Priv Zip",
+            "score": 2450
         },
         {
-            "name": "Dr Apt",
-            "score": 600
+            "name": "Priv Zip",
+            "score": 2430
         },
         {
-            "name": "Cadet Strip",
-            "score": 540
+            "name": "Corp Cat",
+            "score": 2010
         },
         {
-            "name": "Sgt Finger",
-            "score": 460
+            "name": "Comm Unzip",
+            "score": 1730
         },
         {
-            "name": "Cadet Apt",
-            "score": 390
+            "name": "Gen Finger",
+            "score": 1280
         },
         {
-            "name": "Comm Cat",
-            "score": 330
+            "name": "Gen Finger",
+            "score": 1220
         },
         {
-            "name": "Col Vim",
-            "score": 320
+            "name": "Brig Finger",
+            "score": 1200
         }
     ],
-    "score": 30,
-    "lives_left": 3,
-    "player_name": "Dr Finger",
+    "score": 330,
+    "lives_left": 0,
+    "player_name": "Corp More",
     "audio_enabled": true
 }
