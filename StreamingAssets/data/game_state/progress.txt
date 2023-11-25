@@ -1,62 +1,53 @@
 {
-    "level": 5,
-    "start_level": 0,
-    "mission": 4,
+    "level": 6,
+    "ms_level": 2,
+    "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
-    "max_level_passed": [
-        6,
-        6,
-        6,
-        6,
-        6,
-        6,
-        6
-    ],
     "top_ten": [
+        {
+            "name": "Sgt Tar",
+            "score": 5250
+        },
+        {
+            "name": "Maj Grep",
+            "score": 3220
+        },
         {
             "name": "Cadet Sleep",
             "score": 3170
+        },
+        {
+            "name": "Sgt Bash",
+            "score": 3130
         },
         {
             "name": "Sgt Sleep",
             "score": 2830
         },
         {
+            "name": "Corp More",
+            "score": 2300
+        },
+        {
+            "name": "Corp More",
+            "score": 2290
+        },
+        {
             "name": "Maj Touch",
             "score": 1970
         },
         {
+            "name": "Col Awk",
+            "score": 1930
+        },
+        {
             "name": "Ms Yum",
             "score": 1870
-        },
-        {
-            "name": "Prof Finger",
-            "score": 1830
-        },
-        {
-            "name": "Mr Sleep",
-            "score": 1440
-        },
-        {
-            "name": "Cadet Fortune",
-            "score": 1370
-        },
-        {
-            "name": "Cadet Fortune",
-            "score": 1360
-        },
-        {
-            "name": "Dr Sleep",
-            "score": 1300
-        },
-        {
-            "name": "Ens Tar",
-            "score": 1180
         }
     ],
-    "score": 780,
-    "lives_left": 0,
-    "player_name": "Corp Yum",
+    "score": 950,
+    "lives_left": 1,
+    "player_name": "Col Cat",
     "audio_enabled": true
 }
