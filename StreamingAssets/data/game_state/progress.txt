@@ -1,6 +1,6 @@
 {
-    "level": 6,
-    "ms_level": 2,
+    "level": 9,
+    "ms_level": 0,
     "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
@@ -8,6 +8,10 @@
         {
             "name": "Sgt Tar",
             "score": 5250
+        },
+        {
+            "name": "Col Cat",
+            "score": 4390
         },
         {
             "name": "Maj Grep",
@@ -34,20 +38,16 @@
             "score": 2290
         },
         {
-            "name": "Maj Touch",
-            "score": 1970
+            "name": "Cadet Grep",
+            "score": 2030
         },
         {
-            "name": "Col Awk",
-            "score": 1930
-        },
-        {
-            "name": "Ms Yum",
-            "score": 1870
+            "name": "Cadet Grep",
+            "score": 2030
         }
     ],
-    "score": 950,
-    "lives_left": 1,
-    "player_name": "Col Cat",
+    "score": 970,
+    "lives_left": 0,
+    "player_name": "Comm More",
     "audio_enabled": true
 }
