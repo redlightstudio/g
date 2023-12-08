@@ -1,53 +1,53 @@
 {
-    "level": 9,
+    "level": 0,
     "ms_level": 0,
     "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
         {
-            "name": "Sgt Tar",
-            "score": 5250
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Col Cat",
-            "score": 4390
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Maj Grep",
-            "score": 3220
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Cadet Sleep",
-            "score": 3170
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sgt Bash",
-            "score": 3130
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sgt Sleep",
-            "score": 2830
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Corp More",
-            "score": 2300
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Corp More",
-            "score": 2290
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Cadet Grep",
-            "score": 2030
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Cadet Grep",
-            "score": 2030
+            "name": "",
+            "score": 0
         }
     ],
-    "score": 970,
-    "lives_left": 0,
-    "player_name": "Comm More",
+    "score": 0,
+    "lives_left": 3,
+    "player_name": "Cadet Sed",
     "audio_enabled": true
 }
