@@ -1,53 +1,52 @@
 {
-    "level": 0,
-    "ms_level": 0,
-    "difficulty": 0,
+    "level": 2,
+    "difficulty": 1,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
         {
-            "name": "",
-            "score": 0
+            "name": "Prof Fortune",
+            "score": 3820
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Sgt Zip",
+            "score": 1530
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Mr Sed",
+            "score": 1060
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Comm Awk",
+            "score": 890
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Comm Awk",
+            "score": 890
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Mr Tar",
+            "score": 790
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Col Finger",
+            "score": 650
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Sgt Sed",
+            "score": 490
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Sgt Cat",
+            "score": 460
         },
         {
-            "name": "",
-            "score": 0
+            "name": "Gen Strip",
+            "score": 430
         }
     ],
-    "score": 0,
-    "lives_left": 3,
-    "player_name": "Cadet Sed",
+    "score": 440,
+    "lives_left": 2,
+    "player_name": "Prof Emacs",
     "audio_enabled": true
 }
