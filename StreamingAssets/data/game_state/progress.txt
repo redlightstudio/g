@@ -37,16 +37,16 @@
             "score": 490
         },
         {
-            "name": "Sgt Cat",
-            "score": 460
+            "name": "Prof Emacs",
+            "score": 480
         },
         {
-            "name": "Gen Strip",
-            "score": 430
+            "name": "Sgt Cat",
+            "score": 460
         }
     ],
-    "score": 440,
-    "lives_left": 2,
-    "player_name": "Prof Emacs",
+    "score": 0,
+    "lives_left": 3,
+    "player_name": "Capt Sed",
     "audio_enabled": true
 }
