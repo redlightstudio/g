@@ -1,5 +1,5 @@
 {
-    "level": 2,
+    "level": 4,
     "difficulty": 1,
     "scene": 0,
     "intro_passed": 1,
@@ -9,44 +9,44 @@
             "score": 3820
         },
         {
+            "name": "Ens Sleep",
+            "score": 1620
+        },
+        {
             "name": "Sgt Zip",
             "score": 1530
+        },
+        {
+            "name": "Capt Cat",
+            "score": 1290
+        },
+        {
+            "name": "Capt Cat",
+            "score": 1180
+        },
+        {
+            "name": "Ens Sed",
+            "score": 1160
         },
         {
             "name": "Mr Sed",
             "score": 1060
         },
         {
-            "name": "Comm Awk",
-            "score": 890
+            "name": "Dr Finger",
+            "score": 970
+        },
+        {
+            "name": "Maj Grep",
+            "score": 970
         },
         {
             "name": "Comm Awk",
             "score": 890
-        },
-        {
-            "name": "Mr Tar",
-            "score": 790
-        },
-        {
-            "name": "Col Finger",
-            "score": 650
-        },
-        {
-            "name": "Sgt Sed",
-            "score": 490
-        },
-        {
-            "name": "Prof Emacs",
-            "score": 480
-        },
-        {
-            "name": "Sgt Cat",
-            "score": 460
         }
     ],
-    "score": 0,
-    "lives_left": 3,
-    "player_name": "Ens More",
+    "score": 100,
+    "lives_left": 2,
+    "player_name": "Cadet Emacs",
     "audio_enabled": true
 }
