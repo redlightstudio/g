@@ -1,52 +1,52 @@
 {
-    "level": 4,
-    "difficulty": 1,
+    "level": 13,
+    "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
         {
-            "name": "Prof Fortune",
-            "score": 3820
+            "name": "Corp Fortune",
+            "score": 1930
         },
         {
-            "name": "Ens Sleep",
+            "name": "Priv Bash",
             "score": 1620
         },
         {
-            "name": "Sgt Zip",
-            "score": 1530
+            "name": "Priv Bash",
+            "score": 1600
         },
         {
-            "name": "Capt Cat",
-            "score": 1290
+            "name": "Col Yum",
+            "score": 1030
         },
         {
-            "name": "Capt Cat",
-            "score": 1180
+            "name": "Capt Grep",
+            "score": 770
         },
         {
-            "name": "Ens Sed",
-            "score": 1160
+            "name": "Capt More",
+            "score": 670
         },
         {
-            "name": "Mr Sed",
-            "score": 1060
+            "name": "Capt Grep",
+            "score": 660
         },
         {
-            "name": "Dr Finger",
-            "score": 970
+            "name": "Capt Grep",
+            "score": 660
         },
         {
-            "name": "Maj Grep",
-            "score": 970
+            "name": "Ms Yum",
+            "score": 250
         },
         {
-            "name": "Comm Awk",
-            "score": 890
+            "name": "Col Apt",
+            "score": 220
         }
     ],
-    "score": 100,
-    "lives_left": 2,
-    "player_name": "Cadet Emacs",
+    "score": 0,
+    "lives_left": 3,
+    "player_name": "Comm Sed",
     "audio_enabled": true
 }
