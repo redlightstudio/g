@@ -1,9 +1,13 @@
 {
-    "level": 13,
-    "difficulty": 0,
+    "level": 0,
+    "difficulty": 1,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
+        {
+            "name": "Col Sleep",
+            "score": 2860
+        },
         {
             "name": "Corp Fortune",
             "score": 1930
@@ -17,36 +21,32 @@
             "score": 1600
         },
         {
+            "name": "Cadet Unzip",
+            "score": 1390
+        },
+        {
+            "name": "Cadet Unzip",
+            "score": 1380
+        },
+        {
+            "name": "Cadet Fortune",
+            "score": 1040
+        },
+        {
             "name": "Col Yum",
             "score": 1030
         },
         {
-            "name": "Capt Grep",
-            "score": 770
+            "name": "Prof Cat",
+            "score": 800
         },
         {
-            "name": "Capt More",
-            "score": 670
-        },
-        {
-            "name": "Capt Grep",
-            "score": 660
-        },
-        {
-            "name": "Capt Grep",
-            "score": 660
-        },
-        {
-            "name": "Ms Yum",
-            "score": 250
-        },
-        {
-            "name": "Col Apt",
-            "score": 220
+            "name": "Gen Sed",
+            "score": 800
         }
     ],
-    "score": 0,
-    "lives_left": 3,
-    "player_name": "Comm Sed",
+    "score": 40,
+    "lives_left": 2,
+    "player_name": "Corp Sleep",
     "audio_enabled": true
 }
