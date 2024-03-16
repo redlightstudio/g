@@ -1,5 +1,5 @@
 {
-    "level": 5,
+    "level": 0,
     "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
@@ -13,6 +13,10 @@
             "score": 1930
         },
         {
+            "name": "Prof Finger",
+            "score": 1860
+        },
+        {
             "name": "Priv Bash",
             "score": 1620
         },
@@ -21,8 +25,16 @@
             "score": 1600
         },
         {
+            "name": "Sr Yum",
+            "score": 1490
+        },
+        {
             "name": "Comm Grep",
             "score": 1480
+        },
+        {
+            "name": "Sr Yum",
+            "score": 1400
         },
         {
             "name": "Cadet Unzip",
@@ -31,22 +43,10 @@
         {
             "name": "Cadet Unzip",
             "score": 1380
-        },
-        {
-            "name": "Cadet Fortune",
-            "score": 1040
-        },
-        {
-            "name": "Col Yum",
-            "score": 1030
-        },
-        {
-            "name": "Cadet Sleep",
-            "score": 980
         }
     ],
-    "score": 630,
-    "lives_left": 0,
-    "player_name": "Priv Sed",
+    "score": 0,
+    "lives_left": 3,
+    "player_name": "Sr Bash",
     "audio_enabled": true
 }
