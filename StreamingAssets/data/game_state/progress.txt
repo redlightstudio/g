@@ -1,5 +1,5 @@
 {
-    "level": 11,
+    "level": 4,
     "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
@@ -21,32 +21,32 @@
             "score": 7440
         },
         {
+            "name": "Sr Touch",
+            "score": 4250
+        },
+        {
+            "name": "Sr Touch",
+            "score": 4120
+        },
+        {
             "name": "Herr Bash",
             "score": 3930
         },
         {
+            "name": "M Vim",
+            "score": 3740
+        },
+        {
+            "name": "Sig Vim",
+            "score": 3680
+        },
+        {
             "name": "Sig Cat",
             "score": 3570
-        },
-        {
-            "name": "Sig Cat",
-            "score": 3380
-        },
-        {
-            "name": "Col Sleep",
-            "score": 2860
-        },
-        {
-            "name": "Sr Mount",
-            "score": 2660
-        },
-        {
-            "name": "Sr Mount",
-            "score": 2500
         }
     ],
-    "score": 390,
-    "lives_left": 0,
-    "player_name": "Sr Mount",
+    "score": 0,
+    "lives_left": 3,
+    "player_name": "Sig Sed",
     "audio_enabled": true
 }
