@@ -1,6 +1,6 @@
 {
-    "level": 4,
-    "difficulty": 0,
+    "level": 19,
+    "difficulty": 1,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
@@ -45,8 +45,8 @@
             "score": 3570
         }
     ],
-    "score": 0,
-    "lives_left": 3,
-    "player_name": "Sig Sed",
+    "score": 40,
+    "lives_left": 1,
+    "player_name": "Sig Emacs",
     "audio_enabled": true
 }
