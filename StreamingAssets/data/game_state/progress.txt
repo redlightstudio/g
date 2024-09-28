@@ -1,52 +1,52 @@
 {
-    "level": 19,
-    "difficulty": 1,
+    "level": 2,
+    "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
         {
-            "name": "Prof Finger",
-            "score": 8790
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sra Zip",
-            "score": 7510
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sra Zip",
-            "score": 7500
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sra Zip",
-            "score": 7440
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sr Touch",
-            "score": 4250
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sr Touch",
-            "score": 4120
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Herr Bash",
-            "score": 3930
+            "name": "",
+            "score": 0
         },
         {
-            "name": "M Vim",
-            "score": 3740
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sig Vim",
-            "score": 3680
+            "name": "",
+            "score": 0
         },
         {
-            "name": "Sig Cat",
-            "score": 3570
+            "name": "",
+            "score": 0
         }
     ],
-    "score": 40,
-    "lives_left": 1,
-    "player_name": "Sig Emacs",
+    "score": 230,
+    "lives_left": 3,
+    "player_name": "Sr More",
     "audio_enabled": true
 }
