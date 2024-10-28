@@ -1,5 +1,5 @@
 {
-    "level": 2,
+    "level": 3,
     "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
@@ -45,8 +45,62 @@
             "score": 0
         }
     ],
-    "score": 230,
-    "lives_left": 3,
-    "player_name": "Sr More",
-    "audio_enabled": true
+    "score": 750,
+    "lives_left": 2,
+    "player_name": "",
+    "audio_enabled": true,
+    "top_ten_indexed": [
+        {
+            "first_name": 7,
+            "second_name": 6,
+            "score": 6950
+        },
+        {
+            "first_name": 8,
+            "second_name": 3,
+            "score": 5730
+        },
+        {
+            "first_name": 4,
+            "second_name": 2,
+            "score": 5380
+        },
+        {
+            "first_name": 5,
+            "second_name": 2,
+            "score": 5300
+        },
+        {
+            "first_name": 2,
+            "second_name": 5,
+            "score": 4790
+        },
+        {
+            "first_name": 1,
+            "second_name": 5,
+            "score": 3630
+        },
+        {
+            "first_name": 7,
+            "second_name": 6,
+            "score": 3490
+        },
+        {
+            "first_name": 4,
+            "second_name": 3,
+            "score": 3380
+        },
+        {
+            "first_name": 3,
+            "second_name": 3,
+            "score": 3340
+        },
+        {
+            "first_name": 8,
+            "second_name": 2,
+            "score": 3210
+        }
+    ],
+    "first_name": 8,
+    "second_name": 0
 }
