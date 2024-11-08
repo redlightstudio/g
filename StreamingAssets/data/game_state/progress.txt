@@ -1,6 +1,6 @@
 {
-    "level": 3,
-    "difficulty": 0,
+    "level": 19,
+    "difficulty": 1,
     "scene": 0,
     "intro_passed": 1,
     "top_ten": [
