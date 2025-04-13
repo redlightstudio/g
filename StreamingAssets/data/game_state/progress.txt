@@ -1,5 +1,5 @@
 {
-    "level": 10,
+    "level": 13,
     "difficulty": 0,
     "scene": 0,
     "intro_passed": 1,
@@ -45,63 +45,64 @@
             "score": 0
         }
     ],
-    "score": 0,
-    "lives_left": 3,
+    "score": 210,
+    "lives_left": 1,
     "player_name": "",
     "audio_enabled": true,
     "top_ten_indexed": [
         {
-            "first_name": 3,
-            "second_name": 9,
-            "score": 4640
+            "first_name": 4,
+            "second_name": 8,
+            "score": 1140
         },
         {
-            "first_name": 5,
-            "second_name": 5,
-            "score": 4590
-        },
-        {
-            "first_name": 3,
-            "second_name": 0,
-            "score": 1790
-        },
-        {
-            "first_name": 9,
-            "second_name": 4,
-            "score": 1040
-        },
-        {
-            "first_name": 8,
-            "second_name": 3,
-            "score": 890
-        },
-        {
-            "first_name": 1,
-            "second_name": 0,
-            "score": 800
-        },
-        {
-            "first_name": 5,
+            "first_name": 6,
             "second_name": 2,
-            "score": 670
+            "score": 840
         },
         {
-            "first_name": 3,
-            "second_name": 0,
-            "score": 460
+            "first_name": 7,
+            "second_name": 3,
+            "score": 40
         },
         {
             "first_name": 0,
-            "second_name": 6,
-            "score": 410
+            "second_name": 0,
+            "score": 0
         },
         {
-            "first_name": 9,
-            "second_name": 3,
-            "score": 360
+            "first_name": 0,
+            "second_name": 0,
+            "score": 0
+        },
+        {
+            "first_name": 0,
+            "second_name": 0,
+            "score": 0
+        },
+        {
+            "first_name": 0,
+            "second_name": 0,
+            "score": 0
+        },
+        {
+            "first_name": 0,
+            "second_name": 0,
+            "score": 0
+        },
+        {
+            "first_name": 0,
+            "second_name": 0,
+            "score": 0
+        },
+        {
+            "first_name": 0,
+            "second_name": 0,
+            "score": 0
         }
     ],
-    "first_name": 0,
-    "second_name": 6,
-    "game_mode": 1
+    "first_name": 7,
+    "second_name": 5,
+    "game_mode": 0,
+    "music_enabled": true
 }
